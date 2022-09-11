@@ -3,14 +3,14 @@
 /**
  * main - Prints the alphabets.
  *
- * Return: Always 0 (Correct)
+ * return: Always 0 (Correct)
  */
 int main(void)
 {
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	for (i = 0, i < 26; i++)
+	for (i = 0; i < 26; i++)
 	{
 		putchar(alp[i]);
 	}

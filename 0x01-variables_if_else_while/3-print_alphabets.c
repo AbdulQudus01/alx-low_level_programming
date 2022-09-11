@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Main - Prints the alphabets.
+ * main - Prints the alphabets.
  *
- * Return: Always 0 (Correct)
+ * return: Always 0 (Correct)
  *
  */
 int main(void)
