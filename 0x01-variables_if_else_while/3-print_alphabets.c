@@ -3,7 +3,7 @@
 /**
  * main - Prints the alphabets.
  *
- * return: Always 0 (Correct)
+ * Return: Always 0 (Correct)
  *
  */
 int main(void)

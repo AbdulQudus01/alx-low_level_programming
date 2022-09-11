@@ -5,7 +5,7 @@
 /**
  * main - Prints the alphabet without the letter q and e.
  *
- * return: Will always be 0 (Correct)
+ * Return: Always 0 (Correct)
  *
  */
 int main(void)
