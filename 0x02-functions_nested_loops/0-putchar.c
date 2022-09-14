@@ -4,7 +4,7 @@
 /**
  * main - Returns 0 to the output
  *
- * @c: Write a program that prints "_putchar"
+ * Description: Write a program that prints "_putchar"
  *
  * Return: Always 1 (Correct)
  *
