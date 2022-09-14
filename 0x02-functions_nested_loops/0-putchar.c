@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <unistd.h>
 #include "main.h"
 
 /**
@@ -9,8 +9,7 @@
  * Return: Always 1 (Correct)
  *
  */
-int main(void)
+int _putchar(char c)
 {
-	_putchar("null");
-	return 0;
+	return (write(1, &c, 1));
 }
