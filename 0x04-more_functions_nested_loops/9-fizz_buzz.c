@@ -2,10 +2,8 @@
 #include "main.h"
 
 /**
- * main - prints Buzz for number 3 and Fizz for number 5 and FizzBuss for 3 and 5
- *
+ * main - prints Buzz each numbers of 3 and 5
  * Return: always 0
- *
  */
 int main(void)
 {
