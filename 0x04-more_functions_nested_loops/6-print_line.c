@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_line: Prints straight line n times.
+ * print_line: prints straight line n times.
  *
- * @n: Number times straight line is printed.
+ * @n: number times straight line is printed.
  *
  * Return: no return.
  *
