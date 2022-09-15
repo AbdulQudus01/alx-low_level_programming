@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -13,7 +13,7 @@ int main(void)
 
 	n = 1;
 
-	for (n = 1; n < 100; n++)
+	for (n = 1; n <= 100; n++)
 	{
 		if (n % 3 == 0 && n % 5 == 0)
 		{
