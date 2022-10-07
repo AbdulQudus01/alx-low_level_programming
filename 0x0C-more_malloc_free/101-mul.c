@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
@@ -6,7 +6,7 @@
 /**
  * _is_zero - determines if any number is zero
  * @argv: argument vector.
- * 
+ *
  * Return: no return.
  */
 void _is_zero(char *argv[])
@@ -111,9 +111,9 @@ int main(int argc, char *argv[])
 		{
 			if (nout[0] != '0')
 				break;
-																lnout--;
-																free(nout), nout = malloc(lnout + 1), nout = _initialize_array(nout, lnout)
-																k = lnout - 1, i = ln1 - 1, j = ln2 - 1, ca = addl = 0;
+			lnout--;
+			free(nout), nout = malloc(lnout + 1), nout = _initialize_array(nout, lnout);
+			k = lnout - 1, i = ln1 - 1, j = ln2 - 1, ca = addl = 0;
 		}
 		if (j >= 0)
 		{
