@@ -13,5 +13,3 @@ main:
 
 	mov eax, 0
 	ret
-format:
-	db "Hello, Holberton", 10, 0
