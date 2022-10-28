@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * git_bit - Returns the value of a bit at a given
- * index.
+ * git_bit - Returns the value of a bit
+ * at a given index.
  * @n: Unsigned long int input.
  * @index: Index of the bit.
  *
